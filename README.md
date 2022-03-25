@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **saikrishna27062001@gmail.com**
 
-- ⚡ Fun fact **I can spe**
+- ⚡ Fun fact **I can speak 6 languages**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
