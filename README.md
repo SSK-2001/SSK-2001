@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **UX Designing**
 
-- 🤝 I’m looking for help with **Backend web development with NodeJs**
+- 🤝 I’m looking for help with **React JS and Node JS **
 
 - 📫 How to reach me **saikrishna27062001@gmail.com**
 
