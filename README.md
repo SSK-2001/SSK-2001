@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saikrishna</h1>
-<h3 align="center">A passionate UX designer from India</h3>
+<h3 align="center">A final year Computer Science undergrad from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ssk-2001&label=Profile%20views&color=0e75b6&style=flat" alt="ssk-2001" /> </p>
 
